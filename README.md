@@ -1,6 +1,6 @@
 # Node dynamic import support
 
-Tested on with all Node `>=12.0.0` versions manually via [nvm](https://github.com/nvm-sh/nvm). To run tests yourself, clone this repo and execute `node src/index.js`. The number `42` should be printed to the console.
+Tested on with all Node `>=12.0.0` versions manually via [nvm](https://github.com/nvm-sh/nvm). To run tests yourself, clone this repo and execute `node src/index.js`. The string `foo bar cjs cjs2` should be printed to the console.
 
 ## Support status
 
